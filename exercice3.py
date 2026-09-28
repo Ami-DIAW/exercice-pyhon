@@ -169,6 +169,7 @@ while True :
     # Cas par défaut si l'option n'est pas valide
     print("entrer une option valide")
     
+    
   
      
     
